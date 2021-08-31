@@ -3,4 +3,5 @@ token:
   secret: user_token_default
 
 gateway:
-  ip: 172.10.0.5
+  //ip: 172.10.0.5
+  ip: 127.0.0.1
